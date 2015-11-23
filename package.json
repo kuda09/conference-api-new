@@ -1,0 +1,22 @@
+{
+  "name": "conference-api",
+  "version": "1.0.0",
+  "description": "Sample Conference Web Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Kudakwashe Nyamainashe",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.2.7",
+    "morgan": "^1.6.1",
+    "nodemon": "^1.8.1"
+  }
+}
