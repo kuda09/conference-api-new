@@ -11,5 +11,6 @@
     <orderEntry type="library" name="mongoose-DefinitelyTyped" level="application" />
     <orderEntry type="library" name="node-DefinitelyTyped" level="application" />
     <orderEntry type="library" name="morgan-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="Mean node_modules" level="project" />
   </component>
 </module>
